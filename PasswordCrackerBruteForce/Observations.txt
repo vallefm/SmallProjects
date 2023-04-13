@@ -1,0 +1,1 @@
+This assignment really taught the importance of limiting password guess attempts as cracking passwords can happen really quickly given enough attempts. Implementing the use of multiple types of characters also dramatically increases the number of guesses and time it takes to guess a password as well. This assignment did not take me very long, only a couple of hours.
